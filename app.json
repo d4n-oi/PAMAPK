@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "pato-zen",
-    "slug": "pato-zen",
+    "slug": "teste",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -30,7 +30,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "eas init --id 622deaf2-9bd6-476a-93fe-dd48c3a9468f"
+        "projectId": "eas init --id de03c0c4-8a85-4221-9047-ecba8422fefe"
       }
     }
   }
