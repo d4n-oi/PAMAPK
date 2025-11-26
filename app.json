@@ -30,7 +30,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "de03c0c4-8a85-4221-9047-ecba8422fefe"
+        "projectId": "eas init --id 622deaf2-9bd6-476a-93fe-dd48c3a9468f"
       }
     }
   }
